@@ -64,7 +64,7 @@ function displayImages(images) {
   lightbox.refresh();
 }
 
-//bilgileriniz için teşekkürler hocam
+//bilgileriniz için teşekkürler hocam(Şubat'tan alıntıdır.)
 form.addEventListener('submit', e => {
   e.preventDefault();
 
